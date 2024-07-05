@@ -1,0 +1,7 @@
+[workspace]
+members = [ "sf-ope-client",
+    "sf-ope-commons",
+    "sf-ope-sensor",
+    "sf-ope-sensorcollector"
+]
+resolver = "2"
